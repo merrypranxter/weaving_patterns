@@ -1,0 +1,20 @@
+{
+  "structural_core": [
+    "visible warp and weft",
+    "over-under interlacement",
+    "binary drawdown matrix",
+    "thread-level pattern"
+  ],
+  "surface_detail": [
+    "fiber fuzz",
+    "float shadows",
+    "anisotropic highlights",
+    "tension wobble",
+    "selvedge edge"
+  ],
+  "anti_drift": [
+    "not printed",
+    "not flat graphic",
+    "pattern created by woven thread structure"
+  ]
+}

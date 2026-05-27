@@ -1,0 +1,127 @@
+{
+  "plain_weave": {
+    "title": "Plain Weave",
+    "logic": "1/1 over-under alternation",
+    "visual_signature": "checkerlike grid, honest cloth, high stability"
+  },
+  "basket_weave": {
+    "title": "Basket Weave",
+    "logic": "grouped over-under blocks",
+    "visual_signature": "chunky checker texture, paired threads, soft blocky surface"
+  },
+  "rib_weave": {
+    "title": "Rib Weave",
+    "logic": "one direction dominates by density or grouping",
+    "visual_signature": "cord-like ribs, directional ridges"
+  },
+  "twill": {
+    "title": "Twill",
+    "logic": "stepped diagonal interlacement",
+    "visual_signature": "diagonal ribs, flexible cloth, moving line"
+  },
+  "herringbone": {
+    "title": "Herringbone",
+    "logic": "twill direction reverses periodically",
+    "visual_signature": "zigzag bone structure, mirrored diagonals"
+  },
+  "chevron": {
+    "title": "Chevron",
+    "logic": "twill builds V-shaped reversals",
+    "visual_signature": "sharp repeated V pattern"
+  },
+  "satin": {
+    "title": "Satin And Sateen",
+    "logic": "long floats spread to avoid obvious diagonal",
+    "visual_signature": "smooth sheen, hidden grid, luminous surface"
+  },
+  "waffle_weave": {
+    "title": "Waffle Weave",
+    "logic": "recessed cell blocks with raised edges",
+    "visual_signature": "honeycomb squares, absorbent relief"
+  },
+  "leno": {
+    "title": "Leno Weave",
+    "logic": "warp pairs twist around weft",
+    "visual_signature": "open mesh, locked holes, gauze-like stability"
+  },
+  "double_weave": {
+    "title": "Double Weave",
+    "logic": "two cloth layers interchanged",
+    "visual_signature": "pockets, reversible zones, layered logic"
+  },
+  "overshot": {
+    "title": "Overshot",
+    "logic": "supplementary pattern weft over plain ground",
+    "visual_signature": "large motifs, float pattern on stable base"
+  },
+  "summer_winter": {
+    "title": "Summer And Winter",
+    "logic": "block weave with tied pattern floats",
+    "visual_signature": "two-sided block pattern, small tie-down texture"
+  },
+  "damask": {
+    "title": "Damask",
+    "logic": "reversible figure using satin/sateen contrast",
+    "visual_signature": "matte/gloss figure-ground, elegant reversal"
+  },
+  "brocade": {
+    "title": "Brocade",
+    "logic": "supplementary decorative weft floats",
+    "visual_signature": "raised ornamental pattern, luxe float drama"
+  },
+  "tapestry": {
+    "title": "Tapestry",
+    "logic": "discontinuous weft builds image areas",
+    "visual_signature": "pictorial blocks, weft-faced cloth"
+  },
+  "jacquard": {
+    "title": "Jacquard",
+    "logic": "individual warp control system",
+    "visual_signature": "image-like programmable structure"
+  },
+  "gingham": {
+    "title": "Gingham",
+    "logic": "equal colored warp/weft stripes",
+    "visual_signature": "simple check, intersection color logic"
+  },
+  "tartan": {
+    "title": "Tartan",
+    "logic": "complex colored sett repeats",
+    "visual_signature": "stripe sequence mirrored in warp and weft"
+  },
+  "houndstooth": {
+    "title": "Houndstooth",
+    "logic": "broken twill check",
+    "visual_signature": "tooth shapes, jagged diagonals"
+  },
+  "pinstripe": {
+    "title": "Pinstripe",
+    "logic": "narrow warp stripes on ground",
+    "visual_signature": "thin formal stripe rhythm"
+  },
+  "seersucker": {
+    "title": "Seersucker",
+    "logic": "differential tension shrinkage",
+    "visual_signature": "puckered stripe, raised crinkle"
+  },
+  "corduroy": {
+    "title": "Corduroy",
+    "logic": "cut pile ribs from floated wefts",
+    "visual_signature": "vertical wale ridges"
+  },
+  "velvet": {
+    "title": "Velvet",
+    "logic": "pile warp or weft cut into plush surface",
+    "visual_signature": "deep nap, light direction drama"
+  },
+  "ikat": {
+    "title": "Ikat / Kasuri",
+    "logic": "resist-dyed threads aligned during weaving",
+    "visual_signature": "blurred feathered motifs made from yarn color"
+  },
+  "moire": {
+    "title": "Moir\u00e9 Silk",
+    "logic": "watered fabric optical interference",
+    "visual_signature": "flowing wave highlights, pressed rib distortion"
+  }
+}

@@ -1,0 +1,26 @@
+family,core_logic,visual_signature
+Plain Weave,1/1 over-under alternation,"checkerlike grid, honest cloth, high stability"
+Basket Weave,grouped over-under blocks,"chunky checker texture, paired threads, soft blocky surface"
+Rib Weave,one direction dominates by density or grouping,"cord-like ribs, directional ridges"
+Twill,stepped diagonal interlacement,"diagonal ribs, flexible cloth, moving line"
+Herringbone,twill direction reverses periodically,"zigzag bone structure, mirrored diagonals"
+Chevron,twill builds V-shaped reversals,sharp repeated V pattern
+Satin And Sateen,long floats spread to avoid obvious diagonal,"smooth sheen, hidden grid, luminous surface"
+Waffle Weave,recessed cell blocks with raised edges,"honeycomb squares, absorbent relief"
+Leno Weave,warp pairs twist around weft,"open mesh, locked holes, gauze-like stability"
+Double Weave,two cloth layers interchanged,"pockets, reversible zones, layered logic"
+Overshot,supplementary pattern weft over plain ground,"large motifs, float pattern on stable base"
+Summer And Winter,block weave with tied pattern floats,"two-sided block pattern, small tie-down texture"
+Damask,reversible figure using satin/sateen contrast,"matte/gloss figure-ground, elegant reversal"
+Brocade,supplementary decorative weft floats,"raised ornamental pattern, luxe float drama"
+Tapestry,discontinuous weft builds image areas,"pictorial blocks, weft-faced cloth"
+Jacquard,individual warp control system,image-like programmable structure
+Gingham,equal colored warp/weft stripes,"simple check, intersection color logic"
+Tartan,complex colored sett repeats,stripe sequence mirrored in warp and weft
+Houndstooth,broken twill check,"tooth shapes, jagged diagonals"
+Pinstripe,narrow warp stripes on ground,thin formal stripe rhythm
+Seersucker,differential tension shrinkage,"puckered stripe, raised crinkle"
+Corduroy,cut pile ribs from floated wefts,vertical wale ridges
+Velvet,pile warp or weft cut into plush surface,"deep nap, light direction drama"
+Ikat / Kasuri,resist-dyed threads aligned during weaving,blurred feathered motifs made from yarn color
+Moiré Silk,watered fabric optical interference,"flowing wave highlights, pressed rib distortion"
