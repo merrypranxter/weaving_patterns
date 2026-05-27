@@ -1,0 +1,38 @@
+{
+  "warp_count": {
+    "type": "number",
+    "min": 10,
+    "max": 500,
+    "default": 96
+  },
+  "weft_count": {
+    "type": "number",
+    "min": 10,
+    "max": 500,
+    "default": 96
+  },
+  "float_length": {
+    "type": "number",
+    "min": 1,
+    "max": 20,
+    "default": 4
+  },
+  "tension_variance": {
+    "type": "number",
+    "min": 0,
+    "max": 1,
+    "default": 0.08
+  },
+  "fiber_fuzz": {
+    "type": "number",
+    "min": 0,
+    "max": 1,
+    "default": 0.25
+  },
+  "anisotropic_highlight": {
+    "type": "number",
+    "min": 0,
+    "max": 1,
+    "default": 0.45
+  }
+}
